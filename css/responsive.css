@@ -1,6 +1,6 @@
 @media only screen and (min-width: 2160px) {
   #showcase {
-    padding-bottom: 530px;
+    padding-bottom: 0px;
   }
   #showcase .showcase-area {
     width: 98%;
@@ -555,7 +555,7 @@
     padding-top: 100px;
   }
   .section {
-    padding: 100px 0px;
+    padding:0px 0px;
   }
   .feature-info {
     width: 80%;
