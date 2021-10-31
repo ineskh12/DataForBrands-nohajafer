@@ -490,7 +490,7 @@ button:focus {
    ========================================================================== */
 .logo-menu a {
   font-size: 20px;
-  color: #fff;
+  color: red;
 }
 
 .menu-bg {
@@ -521,11 +521,14 @@ button:focus {
 } */
 
 .menu-bg .navbar-nav .nav-link:hover {
-  color: #ffffff !important;
+  cursor: pointer;
+  text-decoration: underline;
+
 }
 
 .menu-bg .navbar-nav .active {
-  color: #ffffff !important;
+text-decoration: overline;
+color:#3c9cfd;
 }
 
 .navbar-expand-md .navbar-nav .nav-link {
