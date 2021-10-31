@@ -218,7 +218,7 @@
 
 @media only screen and (max-width: 767px) {
   .bg-inverse {
-    background: #191c1e;
+    background: #fff;
   }
   .navbar-expand-md .navbar-brand,
   .navbar-expand-md .navbar-toggler {
@@ -331,7 +331,7 @@
     padding-right: 15px !important;
   }
   #showcase {
-    padding-bottom: 250px;
+    padding-bottom: 0px;
   }
   #pricing .pricing-table h1 span {
     left: 4%;
