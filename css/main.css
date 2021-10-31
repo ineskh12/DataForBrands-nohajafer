@@ -81,10 +81,15 @@ a {
 h1,
 h2,
 h3,
-h4,
-h5 {
+h4 {
   font-family: "Quicksand-Bold";
   font-size: 40px;
+  font-weight: 400;
+  color: #0000cc;
+}
+h5 {
+  font-family: "Quicksand-Bold";
+  font-size: 30px;
   font-weight: 400;
   color: #0000cc;
 }
@@ -490,7 +495,7 @@ button:focus {
    ========================================================================== */
 .logo-menu a {
   font-size: 20px;
-  color: red;
+  color: #fff;
 }
 
 .menu-bg {
